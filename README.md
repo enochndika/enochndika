@@ -1,3 +1,4 @@
+### 👋 Hi, I’m Enoch Ndika
 ### I am a web developper, Instructor and blogger
 
 🔭 I’m currently working on Kimia-UI, a collection of UI components for React built with Tailwind CSS

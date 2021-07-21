@@ -2,6 +2,9 @@
 
 🔭 I’m the creator of [Salvia-kit](https://salvia-kit.com) and [Kimia-UI](https://kimia-ui.vercel.app).
 
+ ⚡ Thanks to [@vercel](https://github.com/vercel) for sponsoring [@salvia-kit](https://github.com/salvia-kit)
+
+
 
 
 

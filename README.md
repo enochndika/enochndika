@@ -1,7 +1,6 @@
-### 👋 Hi, I’m Enoch Ndika
-### I am a web developper, Instructor and blogger
+### 👋 Hi, I’m Enoch Ndika,  web developper, Instructor and blogger.
 
-🔭 I’m currently working on Kimia-UI, a collection of UI components for React built with Tailwind CSS
+🔭 I’m the creator of [Salvia-kit](https://salvia-kit.com) and [Kimia-UI](https://kimia-ui.vercel.app).
 
 
 

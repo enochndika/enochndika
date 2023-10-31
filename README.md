@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I’m Enoch Ndika,  Web developper, Instructor and Blogger.
+
+🔭 I’m the creator of [Salvia-kit](https://salvia-kit.com) and [Kimia-UI](https://kimia-ui.vercel.app).
+
+ ⚡ Thanks to [@vercel](https://github.com/vercel) and [@JetBrains](https://github.com/JetBrains) for sponsoring [@salvia-kit](https://github.com/salvia-kit)
+
+
+
+
 
 <!--
 **enochndika/enochndika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
